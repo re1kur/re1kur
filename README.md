@@ -3,11 +3,11 @@
 
 - 🔭 Working on [Education Platform "GOAL"](https://github.com/re1kur/education-platform)
 
-- 🌱 Стек технологий/Stack **Java 17+, Spring, SQL(PostgreSQL, JDBC), ORM(Hibernate), Liquibase,, Redis, MongoDB, RabbitMQ, Kafka, Git.**
+- 🌱 Stack **Java 17+, Spring, SQL(PostgreSQL, JDBC), ORM(Hibernate), Liquibase,, Redis, MongoDB, RabbitMQ, Kafka, Git.**
 
-- 💬 Связаться со мной можно здесь/You can contact me here **https://t.me/re1kur**
+- 💬 You can contact me here **https://t.me/re1kur**
 
-- 📄 Резюме/CV [https://github.com/re1kur/cv/blob/main/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80%20%D0%95%D0%B3%D0%BE%D1%80%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf](https://github.com/re1kur/cv/blob/main/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80%20%D0%95%D0%B3%D0%BE%D1%80%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf)
+- 📄 CV [https://github.com/re1kur/cv/blob/main/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80%20%D0%95%D0%B3%D0%BE%D1%80%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf](https://github.com/re1kur/cv/blob/main/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80%20%D0%95%D0%B3%D0%BE%D1%80%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
