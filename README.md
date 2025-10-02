@@ -4,8 +4,8 @@
 Passionate about building scalable, maintainable backend systems for education and beyond. I write clean, testable code and believe in infrastructure as code, observability, and developer experience.
 
 - 🔭 **Working on**: [Education Platform "GOAL"](https://github.com/re1kur/education-platform)  
-- 🌱 **Tech Stack**: Java 17+, Spring Boot, PostgreSQL, Liquibase, Redis, RabbitMQ, Kafka, Docker, Git, Linux  
-- 🚀 **Currently exploring**: AWS (EC2, S3, Lambda), Kubernetes, and observability with Grafana & Prometheus  
+- 🌱 **Tech Stack**: Java 17+, Spring Boot, PostgreSQL, Liquibase, AWS (S3, MinIO), Redis, RabbitMQ, Kafka, Docker, Git, Linux  
+- 🚀 **Currently exploring**: Kubernetes, and observability with Grafana & Prometheus  
 - 💬 **Reach me**: [Telegram @re1kur](https://t.me/re1kur)  
 - 📄 **[My CV (PDF)](https://github.com/re1kur/cv/blob/main/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80%20%D0%95%D0%B3%D0%BE%D1%80%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf)**
 
@@ -73,4 +73,4 @@ Passionate about building scalable, maintainable backend systems for education a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=re1kur&layout=compact&theme=radical&hide_border=true" alt="top languages" />
 </p>
 
-> 💡 *“Simplicity is the ultimate sophistication.” — Leonardo da Vinci*
+> 💡 *“Don't forget the life you promised yourself.” — Unknown*
