@@ -3,9 +3,8 @@
 
 Passionate about building scalable, maintainable backend systems for education and beyond. I write clean, testable code and believe in infrastructure as code, observability, and developer experience.
 
-- 🔭 **Working on**: [Education Platform "GOAL"](https://github.com/re1kur/education-platform)  
 - 🌱 **Tech Stack**: Java 17+, Spring Boot, PostgreSQL, Liquibase, AWS (S3, MinIO), Redis, RabbitMQ, Kafka, Docker, Git, Linux  
-- 🚀 **Currently exploring**: Kubernetes, and observability with Grafana & Prometheus  
+- 🚀 **Currently exploring**: Observability with Grafana & Prometheus, Promtail & Loki, Otel Java Agent & Tempo  
 - 💬 **Reach me**: [Telegram @re1kur](https://t.me/re1kur)  
 - 📄 **[My CV (PDF)](https://github.com/re1kur/cv/blob/main/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80%20%D0%95%D0%B3%D0%BE%D1%80%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf)**
 
