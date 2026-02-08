@@ -3,8 +3,8 @@
 
 Passionate about building scalable, maintainable backend systems for education and beyond. I write clean, testable code and believe in infrastructure as code, observability, and developer experience.
 
-- 🌱 **Tech Stack**: Java 17+, Spring Boot, PostgreSQL, Liquibase, AWS (S3, MinIO), Redis, RabbitMQ, Kafka, Docker, Git, Linux  
-- 🚀 **Currently exploring**: Observability with Grafana & Prometheus, Promtail & Loki, Otel Java Agent & Tempo  
+- 🌱 **Tech Stack**: Java 17+, Maven/Gradle.kts, Spring, PostgreSQL, Liquibase/Flyway, AWS (S3, MinIO), Redis, Clickhouse, RabbitMQ, Kafka, Docker, Git, Linux, Bash, Observability (Grafana, Prometheus, Promtail, Loki, Otel Java Agent, Tempo)  
+- 🚀 **Currently exploring**: 
 - 💬 **Reach me**: [Telegram @re1kur](https://t.me/re1kur)  
 - 📄 **[My CV (PDF)](https://github.com/re1kur/cv/blob/main/%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80%20%D0%95%D0%B3%D0%BE%D1%80%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.pdf)**
 
@@ -64,12 +64,5 @@ Passionate about building scalable, maintainable backend systems for education a
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=re1kur&show_icons=true&theme=radical&hide_border=true" alt="re1kur" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=re1kur&layout=compact&theme=radical&hide_border=true" alt="top languages" />
-</p>
 
 > 💡 *“Don't forget the life you promised yourself.” — Unknown*
