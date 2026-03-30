@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">👋</h1>
 
 **Немного о себе:**
 Вдохновляюсь сферой информационных технологий. Нравится писать чистый код, покрывать его тестами на сто процентов и соблюдать хорошие практики.
@@ -29,7 +29,7 @@
 > «Don't forget the life you promised yourself.»  
 > «Не забывай о жизни, которую ты себе обещал».
 
-<h1 align="center">👋</h1>
+<h1 align="center"></h1>
 
 ![Java](https://img.shields.io/badge/Java_17+-orange)
 ![Spring](https://img.shields.io/badge/Spring_Boot-brightgreen)
