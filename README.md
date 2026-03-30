@@ -9,14 +9,14 @@
 - Java 17+
 - Spring
 - Maven/Gradle.kts
-- SQL (PostgreSQL, MySQL)
+- SQL: PostgreSQL
 - Liquibase/Flyway
 - Apache ShardingSphere
 - Docker
 - Linux Bash, Git
 - Kafka/RabbitMQ
 - NoSQL: Redis, ClickHouse, Minio
-- Observability Stack(Grafana, Prometheus, Loki, Tempo, Alloy, Promtail)
+- Observability Stack: Grafana, Prometheus, Loki, Tempo, Alloy, Promtail
 
 **Telegram**: https://t.me/re1kur
 
